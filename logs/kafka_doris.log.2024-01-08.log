@@ -1,0 +1,494 @@
+2024-01-08 16:25:00.083 [main] INFO KotlinDetector.java:57 - Kotlin reflection implementation not found at runtime, related features won't be available.
+2024-01-08 16:25:00.320 [main] INFO StartupInfoLogger.java:55 - Starting KafkaDorisApplication on DESKTOP-FGKD8VO with PID 16468 (D:\workspace\lark\target\classes started by Lenovo in D:\workspace\lark)
+2024-01-08 16:25:00.321 [main] INFO SpringApplication.java:651 - No active profile set, falling back to default profiles: default
+2024-01-08 16:25:00.625 [main] INFO RepositoryConfigurationDelegate.java:244 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2024-01-08 16:25:00.626 [main] INFO RepositoryConfigurationDelegate.java:126 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2024-01-08 16:25:00.641 [main] INFO RepositoryConfigurationDelegate.java:182 - Finished Spring Data repository scanning in 8ms. Found 0 repository interfaces.
+2024-01-08 16:25:00.771 [main] INFO PostProcessorRegistrationDelegate.java:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-01-08 16:25:00.901 [main] INFO TomcatWebServer.java:92 - Tomcat initialized with port(s): 8181 (http)
+2024-01-08 16:25:00.906 [main] INFO DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8181"]
+2024-01-08 16:25:00.907 [main] INFO DirectJDKLog.java:173 - Starting service [Tomcat]
+2024-01-08 16:25:00.907 [main] INFO DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2024-01-08 16:25:00.959 [main] INFO DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2024-01-08 16:25:00.959 [main] INFO ServletWebServerApplicationContext.java:284 - Root WebApplicationContext: initialization completed in 612 ms
+2024-01-08 16:25:01.041 [main] INFO DruidDataSourceAutoConfigure.java:56 - Init DruidDataSource
+2024-01-08 16:25:01.092 [main] INFO DruidDataSource.java:991 - {dataSource-1} inited
+2024-01-08 16:25:01.560 [main] INFO ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-08 16:25:01.832 [main] INFO DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8181"]
+2024-01-08 16:25:01.843 [main] INFO TomcatWebServer.java:204 - Tomcat started on port(s): 8181 (http) with context path ''
+2024-01-08 16:25:01.844 [main] INFO StartupInfoLogger.java:61 - Started KafkaDorisApplication in 1.737 seconds (JVM running for 2.276)
+2024-01-08 16:26:02.573 [http-nio-8181-exec-1] INFO DirectJDKLog.java:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-08 16:26:02.573 [http-nio-8181-exec-1] INFO FrameworkServlet.java:525 - Initializing Servlet 'dispatcherServlet'
+2024-01-08 16:26:02.577 [http-nio-8181-exec-1] INFO FrameworkServlet.java:547 - Completed initialization in 4 ms
+2024-01-08 16:26:38.043 [SpringContextShutdownHook] INFO ExecutorConfigurationSupport.java:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-08 16:26:38.045 [SpringContextShutdownHook] INFO DruidDataSource.java:1928 - {dataSource-1} closed
+2024-01-08 16:26:40.731 [main] INFO KotlinDetector.java:57 - Kotlin reflection implementation not found at runtime, related features won't be available.
+2024-01-08 16:26:40.984 [main] INFO StartupInfoLogger.java:55 - Starting KafkaDorisApplication on DESKTOP-FGKD8VO with PID 17284 (D:\workspace\lark\target\classes started by Lenovo in D:\workspace\lark)
+2024-01-08 16:26:40.991 [main] INFO SpringApplication.java:651 - No active profile set, falling back to default profiles: default
+2024-01-08 16:26:41.333 [main] INFO RepositoryConfigurationDelegate.java:244 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2024-01-08 16:26:41.334 [main] INFO RepositoryConfigurationDelegate.java:126 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2024-01-08 16:26:41.351 [main] INFO RepositoryConfigurationDelegate.java:182 - Finished Spring Data repository scanning in 9ms. Found 0 repository interfaces.
+2024-01-08 16:26:41.499 [main] INFO PostProcessorRegistrationDelegate.java:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-01-08 16:26:41.652 [main] INFO TomcatWebServer.java:92 - Tomcat initialized with port(s): 8181 (http)
+2024-01-08 16:26:41.658 [main] INFO DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8181"]
+2024-01-08 16:26:41.658 [main] INFO DirectJDKLog.java:173 - Starting service [Tomcat]
+2024-01-08 16:26:41.658 [main] INFO DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2024-01-08 16:26:41.712 [main] INFO DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2024-01-08 16:26:41.713 [main] INFO ServletWebServerApplicationContext.java:284 - Root WebApplicationContext: initialization completed in 696 ms
+2024-01-08 16:26:41.793 [main] INFO DruidDataSourceAutoConfigure.java:56 - Init DruidDataSource
+2024-01-08 16:26:41.848 [main] INFO DruidDataSource.java:991 - {dataSource-1} inited
+2024-01-08 16:26:42.342 [main] INFO ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-08 16:26:42.639 [main] INFO DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8181"]
+2024-01-08 16:26:42.651 [main] INFO TomcatWebServer.java:204 - Tomcat started on port(s): 8181 (http) with context path ''
+2024-01-08 16:26:42.653 [main] INFO StartupInfoLogger.java:61 - Started KafkaDorisApplication in 1.893 seconds (JVM running for 2.497)
+2024-01-08 16:27:55.160 [http-nio-8181-exec-2] INFO DirectJDKLog.java:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-08 16:27:55.160 [http-nio-8181-exec-2] INFO FrameworkServlet.java:525 - Initializing Servlet 'dispatcherServlet'
+2024-01-08 16:27:55.164 [http-nio-8181-exec-2] INFO FrameworkServlet.java:547 - Completed initialization in 4 ms
+2024-01-08 16:34:11.950 [SpringContextShutdownHook] INFO ExecutorConfigurationSupport.java:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-08 16:34:11.954 [SpringContextShutdownHook] INFO DruidDataSource.java:1928 - {dataSource-1} closed
+2024-01-08 16:34:15.297 [main] INFO KotlinDetector.java:57 - Kotlin reflection implementation not found at runtime, related features won't be available.
+2024-01-08 16:34:15.557 [main] INFO StartupInfoLogger.java:55 - Starting KafkaDorisApplication on DESKTOP-FGKD8VO with PID 14696 (D:\workspace\lark\target\classes started by Lenovo in D:\workspace\lark)
+2024-01-08 16:34:15.565 [main] INFO SpringApplication.java:651 - No active profile set, falling back to default profiles: default
+2024-01-08 16:34:15.904 [main] INFO RepositoryConfigurationDelegate.java:244 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2024-01-08 16:34:15.905 [main] INFO RepositoryConfigurationDelegate.java:126 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2024-01-08 16:34:15.923 [main] INFO RepositoryConfigurationDelegate.java:182 - Finished Spring Data repository scanning in 9ms. Found 0 repository interfaces.
+2024-01-08 16:34:16.069 [main] INFO PostProcessorRegistrationDelegate.java:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-01-08 16:34:16.220 [main] INFO TomcatWebServer.java:92 - Tomcat initialized with port(s): 8181 (http)
+2024-01-08 16:34:16.226 [main] INFO DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8181"]
+2024-01-08 16:34:16.226 [main] INFO DirectJDKLog.java:173 - Starting service [Tomcat]
+2024-01-08 16:34:16.226 [main] INFO DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2024-01-08 16:34:16.281 [main] INFO DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2024-01-08 16:34:16.281 [main] INFO ServletWebServerApplicationContext.java:284 - Root WebApplicationContext: initialization completed in 691 ms
+2024-01-08 16:34:16.362 [main] INFO DruidDataSourceAutoConfigure.java:56 - Init DruidDataSource
+2024-01-08 16:34:16.417 [main] INFO DruidDataSource.java:991 - {dataSource-1} inited
+2024-01-08 16:34:16.903 [main] INFO ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-08 16:34:17.204 [main] INFO DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8181"]
+2024-01-08 16:34:17.216 [main] INFO TomcatWebServer.java:204 - Tomcat started on port(s): 8181 (http) with context path ''
+2024-01-08 16:34:17.218 [main] INFO StartupInfoLogger.java:61 - Started KafkaDorisApplication in 1.892 seconds (JVM running for 2.51)
+2024-01-08 16:34:41.557 [http-nio-8181-exec-2] INFO DirectJDKLog.java:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-08 16:34:41.557 [http-nio-8181-exec-2] INFO FrameworkServlet.java:525 - Initializing Servlet 'dispatcherServlet'
+2024-01-08 16:34:41.561 [http-nio-8181-exec-2] INFO FrameworkServlet.java:547 - Completed initialization in 4 ms
+2024-01-08 16:36:43.818 [SpringContextShutdownHook] INFO ExecutorConfigurationSupport.java:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-08 16:36:43.822 [SpringContextShutdownHook] INFO DruidDataSource.java:1928 - {dataSource-1} closed
+2024-01-08 16:36:47.310 [main] INFO KotlinDetector.java:57 - Kotlin reflection implementation not found at runtime, related features won't be available.
+2024-01-08 16:36:47.570 [main] INFO StartupInfoLogger.java:55 - Starting KafkaDorisApplication on DESKTOP-FGKD8VO with PID 16156 (D:\workspace\lark\target\classes started by Lenovo in D:\workspace\lark)
+2024-01-08 16:36:47.570 [main] INFO SpringApplication.java:651 - No active profile set, falling back to default profiles: default
+2024-01-08 16:36:47.915 [main] INFO RepositoryConfigurationDelegate.java:244 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2024-01-08 16:36:47.916 [main] INFO RepositoryConfigurationDelegate.java:126 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2024-01-08 16:36:47.933 [main] INFO RepositoryConfigurationDelegate.java:182 - Finished Spring Data repository scanning in 9ms. Found 0 repository interfaces.
+2024-01-08 16:36:48.081 [main] INFO PostProcessorRegistrationDelegate.java:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-01-08 16:36:48.234 [main] INFO TomcatWebServer.java:92 - Tomcat initialized with port(s): 8181 (http)
+2024-01-08 16:36:48.239 [main] INFO DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8181"]
+2024-01-08 16:36:48.240 [main] INFO DirectJDKLog.java:173 - Starting service [Tomcat]
+2024-01-08 16:36:48.240 [main] INFO DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2024-01-08 16:36:48.293 [main] INFO DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2024-01-08 16:36:48.293 [main] INFO ServletWebServerApplicationContext.java:284 - Root WebApplicationContext: initialization completed in 698 ms
+2024-01-08 16:36:48.375 [main] INFO DruidDataSourceAutoConfigure.java:56 - Init DruidDataSource
+2024-01-08 16:36:48.430 [main] INFO DruidDataSource.java:991 - {dataSource-1} inited
+2024-01-08 16:36:48.919 [main] INFO ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-08 16:36:49.219 [main] INFO DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8181"]
+2024-01-08 16:36:49.231 [main] INFO TomcatWebServer.java:204 - Tomcat started on port(s): 8181 (http) with context path ''
+2024-01-08 16:36:49.233 [main] INFO StartupInfoLogger.java:61 - Started KafkaDorisApplication in 1.895 seconds (JVM running for 2.664)
+2024-01-08 16:38:46.621 [http-nio-8181-exec-2] INFO DirectJDKLog.java:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-08 16:38:46.621 [http-nio-8181-exec-2] INFO FrameworkServlet.java:525 - Initializing Servlet 'dispatcherServlet'
+2024-01-08 16:38:46.625 [http-nio-8181-exec-2] INFO FrameworkServlet.java:547 - Completed initialization in 4 ms
+2024-01-08 16:40:32.556 [SpringContextShutdownHook] INFO ExecutorConfigurationSupport.java:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-08 16:40:32.559 [SpringContextShutdownHook] INFO DruidDataSource.java:1928 - {dataSource-1} closed
+2024-01-08 16:40:35.865 [main] INFO KotlinDetector.java:57 - Kotlin reflection implementation not found at runtime, related features won't be available.
+2024-01-08 16:40:36.133 [main] INFO StartupInfoLogger.java:55 - Starting KafkaDorisApplication on DESKTOP-FGKD8VO with PID 11676 (D:\workspace\lark\target\classes started by Lenovo in D:\workspace\lark)
+2024-01-08 16:40:36.141 [main] INFO SpringApplication.java:651 - No active profile set, falling back to default profiles: default
+2024-01-08 16:40:36.478 [main] INFO RepositoryConfigurationDelegate.java:244 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2024-01-08 16:40:36.479 [main] INFO RepositoryConfigurationDelegate.java:126 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2024-01-08 16:40:36.496 [main] INFO RepositoryConfigurationDelegate.java:182 - Finished Spring Data repository scanning in 9ms. Found 0 repository interfaces.
+2024-01-08 16:40:36.648 [main] INFO PostProcessorRegistrationDelegate.java:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-01-08 16:40:36.795 [main] INFO TomcatWebServer.java:92 - Tomcat initialized with port(s): 8181 (http)
+2024-01-08 16:40:36.800 [main] INFO DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8181"]
+2024-01-08 16:40:36.801 [main] INFO DirectJDKLog.java:173 - Starting service [Tomcat]
+2024-01-08 16:40:36.801 [main] INFO DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2024-01-08 16:40:36.854 [main] INFO DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2024-01-08 16:40:36.854 [main] INFO ServletWebServerApplicationContext.java:284 - Root WebApplicationContext: initialization completed in 687 ms
+2024-01-08 16:40:36.934 [main] INFO DruidDataSourceAutoConfigure.java:56 - Init DruidDataSource
+2024-01-08 16:40:36.989 [main] INFO DruidDataSource.java:991 - {dataSource-1} inited
+2024-01-08 16:40:37.461 [main] INFO ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-08 16:40:37.759 [main] INFO DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8181"]
+2024-01-08 16:40:37.772 [main] INFO TomcatWebServer.java:204 - Tomcat started on port(s): 8181 (http) with context path ''
+2024-01-08 16:40:37.774 [main] INFO StartupInfoLogger.java:61 - Started KafkaDorisApplication in 1.879 seconds (JVM running for 2.469)
+2024-01-08 16:40:49.621 [http-nio-8181-exec-1] INFO DirectJDKLog.java:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-08 16:40:49.621 [http-nio-8181-exec-1] INFO FrameworkServlet.java:525 - Initializing Servlet 'dispatcherServlet'
+2024-01-08 16:40:49.625 [http-nio-8181-exec-1] INFO FrameworkServlet.java:547 - Completed initialization in 4 ms
+2024-01-08 16:43:43.560 [SpringContextShutdownHook] INFO ExecutorConfigurationSupport.java:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-08 16:43:43.562 [SpringContextShutdownHook] INFO DruidDataSource.java:1928 - {dataSource-1} closed
+2024-01-08 16:43:45.416 [main] INFO KotlinDetector.java:57 - Kotlin reflection implementation not found at runtime, related features won't be available.
+2024-01-08 16:43:45.710 [main] INFO StartupInfoLogger.java:55 - Starting KafkaDorisApplication on DESKTOP-FGKD8VO with PID 7928 (D:\workspace\lark\target\classes started by Lenovo in D:\workspace\lark)
+2024-01-08 16:43:45.717 [main] INFO SpringApplication.java:651 - No active profile set, falling back to default profiles: default
+2024-01-08 16:43:46.061 [main] INFO RepositoryConfigurationDelegate.java:244 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2024-01-08 16:43:46.062 [main] INFO RepositoryConfigurationDelegate.java:126 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2024-01-08 16:43:46.079 [main] INFO RepositoryConfigurationDelegate.java:182 - Finished Spring Data repository scanning in 9ms. Found 0 repository interfaces.
+2024-01-08 16:43:46.228 [main] INFO PostProcessorRegistrationDelegate.java:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-01-08 16:43:46.378 [main] INFO TomcatWebServer.java:92 - Tomcat initialized with port(s): 8181 (http)
+2024-01-08 16:43:46.383 [main] INFO DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8181"]
+2024-01-08 16:43:46.384 [main] INFO DirectJDKLog.java:173 - Starting service [Tomcat]
+2024-01-08 16:43:46.384 [main] INFO DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2024-01-08 16:43:46.437 [main] INFO DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2024-01-08 16:43:46.438 [main] INFO ServletWebServerApplicationContext.java:284 - Root WebApplicationContext: initialization completed in 693 ms
+2024-01-08 16:43:46.517 [main] INFO DruidDataSourceAutoConfigure.java:56 - Init DruidDataSource
+2024-01-08 16:43:46.575 [main] INFO DruidDataSource.java:991 - {dataSource-1} inited
+2024-01-08 16:43:47.050 [main] INFO ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-08 16:43:47.346 [main] INFO DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8181"]
+2024-01-08 16:43:47.358 [main] INFO TomcatWebServer.java:204 - Tomcat started on port(s): 8181 (http) with context path ''
+2024-01-08 16:43:47.359 [main] INFO StartupInfoLogger.java:61 - Started KafkaDorisApplication in 1.908 seconds (JVM running for 2.545)
+2024-01-08 16:44:34.919 [http-nio-8181-exec-2] INFO DirectJDKLog.java:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-08 16:44:34.919 [http-nio-8181-exec-2] INFO FrameworkServlet.java:525 - Initializing Servlet 'dispatcherServlet'
+2024-01-08 16:44:34.923 [http-nio-8181-exec-2] INFO FrameworkServlet.java:547 - Completed initialization in 4 ms
+2024-01-08 16:47:12.047 [SpringContextShutdownHook] INFO ExecutorConfigurationSupport.java:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-08 16:47:12.050 [SpringContextShutdownHook] INFO DruidDataSource.java:1928 - {dataSource-1} closed
+2024-01-08 16:47:15.433 [main] INFO KotlinDetector.java:57 - Kotlin reflection implementation not found at runtime, related features won't be available.
+2024-01-08 16:47:15.697 [main] INFO StartupInfoLogger.java:55 - Starting KafkaDorisApplication on DESKTOP-FGKD8VO with PID 20016 (D:\workspace\lark\target\classes started by Lenovo in D:\workspace\lark)
+2024-01-08 16:47:15.704 [main] INFO SpringApplication.java:651 - No active profile set, falling back to default profiles: default
+2024-01-08 16:47:16.047 [main] INFO RepositoryConfigurationDelegate.java:244 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2024-01-08 16:47:16.049 [main] INFO RepositoryConfigurationDelegate.java:126 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2024-01-08 16:47:16.065 [main] INFO RepositoryConfigurationDelegate.java:182 - Finished Spring Data repository scanning in 9ms. Found 0 repository interfaces.
+2024-01-08 16:47:16.213 [main] INFO PostProcessorRegistrationDelegate.java:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-01-08 16:47:16.360 [main] INFO TomcatWebServer.java:92 - Tomcat initialized with port(s): 8181 (http)
+2024-01-08 16:47:16.365 [main] INFO DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8181"]
+2024-01-08 16:47:16.365 [main] INFO DirectJDKLog.java:173 - Starting service [Tomcat]
+2024-01-08 16:47:16.365 [main] INFO DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2024-01-08 16:47:16.419 [main] INFO DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2024-01-08 16:47:16.419 [main] INFO ServletWebServerApplicationContext.java:284 - Root WebApplicationContext: initialization completed in 689 ms
+2024-01-08 16:47:16.500 [main] INFO DruidDataSourceAutoConfigure.java:56 - Init DruidDataSource
+2024-01-08 16:47:16.557 [main] INFO DruidDataSource.java:991 - {dataSource-1} inited
+2024-01-08 16:47:17.043 [main] INFO ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-08 16:47:17.333 [main] INFO DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8181"]
+2024-01-08 16:47:17.345 [main] INFO TomcatWebServer.java:204 - Tomcat started on port(s): 8181 (http) with context path ''
+2024-01-08 16:47:17.346 [main] INFO StartupInfoLogger.java:61 - Started KafkaDorisApplication in 1.883 seconds (JVM running for 2.48)
+2024-01-08 16:47:22.107 [http-nio-8181-exec-1] INFO DirectJDKLog.java:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-08 16:47:22.107 [http-nio-8181-exec-1] INFO FrameworkServlet.java:525 - Initializing Servlet 'dispatcherServlet'
+2024-01-08 16:47:22.112 [http-nio-8181-exec-1] INFO FrameworkServlet.java:547 - Completed initialization in 5 ms
+2024-01-08 16:49:55.693 [SpringContextShutdownHook] INFO ExecutorConfigurationSupport.java:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-08 16:49:55.695 [SpringContextShutdownHook] INFO DruidDataSource.java:1928 - {dataSource-1} closed
+2024-01-08 16:49:59.072 [main] INFO KotlinDetector.java:57 - Kotlin reflection implementation not found at runtime, related features won't be available.
+2024-01-08 16:49:59.330 [main] INFO StartupInfoLogger.java:55 - Starting KafkaDorisApplication on DESKTOP-FGKD8VO with PID 20912 (D:\workspace\lark\target\classes started by Lenovo in D:\workspace\lark)
+2024-01-08 16:49:59.330 [main] INFO SpringApplication.java:651 - No active profile set, falling back to default profiles: default
+2024-01-08 16:49:59.672 [main] INFO RepositoryConfigurationDelegate.java:244 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2024-01-08 16:49:59.673 [main] INFO RepositoryConfigurationDelegate.java:126 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2024-01-08 16:49:59.691 [main] INFO RepositoryConfigurationDelegate.java:182 - Finished Spring Data repository scanning in 9ms. Found 0 repository interfaces.
+2024-01-08 16:49:59.837 [main] INFO PostProcessorRegistrationDelegate.java:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-01-08 16:49:59.991 [main] INFO TomcatWebServer.java:92 - Tomcat initialized with port(s): 8181 (http)
+2024-01-08 16:49:59.997 [main] INFO DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8181"]
+2024-01-08 16:49:59.997 [main] INFO DirectJDKLog.java:173 - Starting service [Tomcat]
+2024-01-08 16:49:59.997 [main] INFO DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2024-01-08 16:50:00.055 [main] INFO DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2024-01-08 16:50:00.055 [main] INFO ServletWebServerApplicationContext.java:284 - Root WebApplicationContext: initialization completed in 700 ms
+2024-01-08 16:50:00.134 [main] INFO DruidDataSourceAutoConfigure.java:56 - Init DruidDataSource
+2024-01-08 16:50:00.190 [main] INFO DruidDataSource.java:991 - {dataSource-1} inited
+2024-01-08 16:50:00.688 [main] INFO ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-08 16:50:00.986 [main] INFO DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8181"]
+2024-01-08 16:50:00.999 [main] INFO TomcatWebServer.java:204 - Tomcat started on port(s): 8181 (http) with context path ''
+2024-01-08 16:50:01.000 [main] INFO StartupInfoLogger.java:61 - Started KafkaDorisApplication in 1.897 seconds (JVM running for 2.524)
+2024-01-08 16:50:05.535 [http-nio-8181-exec-1] INFO DirectJDKLog.java:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-08 16:50:05.536 [http-nio-8181-exec-1] INFO FrameworkServlet.java:525 - Initializing Servlet 'dispatcherServlet'
+2024-01-08 16:50:05.540 [http-nio-8181-exec-1] INFO FrameworkServlet.java:547 - Completed initialization in 4 ms
+2024-01-08 16:59:42.674 [SpringContextShutdownHook] INFO ExecutorConfigurationSupport.java:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-08 16:59:42.676 [SpringContextShutdownHook] INFO DruidDataSource.java:1928 - {dataSource-1} closed
+2024-01-08 17:09:20.459 [main] INFO KotlinDetector.java:57 - Kotlin reflection implementation not found at runtime, related features won't be available.
+2024-01-08 17:09:20.689 [main] INFO StartupInfoLogger.java:55 - Starting KafkaDorisApplication on DESKTOP-FGKD8VO with PID 21256 (D:\workspace\lark\target\classes started by Lenovo in D:\workspace\lark)
+2024-01-08 17:09:20.690 [main] INFO SpringApplication.java:651 - No active profile set, falling back to default profiles: default
+2024-01-08 17:09:21.005 [main] INFO RepositoryConfigurationDelegate.java:244 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2024-01-08 17:09:21.006 [main] INFO RepositoryConfigurationDelegate.java:126 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2024-01-08 17:09:21.021 [main] INFO RepositoryConfigurationDelegate.java:182 - Finished Spring Data repository scanning in 8ms. Found 0 repository interfaces.
+2024-01-08 17:09:21.152 [main] INFO PostProcessorRegistrationDelegate.java:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-01-08 17:09:21.278 [main] INFO TomcatWebServer.java:92 - Tomcat initialized with port(s): 8181 (http)
+2024-01-08 17:09:21.284 [main] INFO DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8181"]
+2024-01-08 17:09:21.284 [main] INFO DirectJDKLog.java:173 - Starting service [Tomcat]
+2024-01-08 17:09:21.284 [main] INFO DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2024-01-08 17:09:21.338 [main] INFO DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2024-01-08 17:09:21.338 [main] INFO ServletWebServerApplicationContext.java:284 - Root WebApplicationContext: initialization completed in 619 ms
+2024-01-08 17:09:21.406 [main] INFO DruidDataSourceAutoConfigure.java:56 - Init DruidDataSource
+2024-01-08 17:09:21.456 [main] INFO DruidDataSource.java:991 - {dataSource-1} inited
+2024-01-08 17:09:21.857 [main] INFO ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'taskScheduler'
+2024-01-08 17:09:21.932 [main] INFO ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-08 17:09:22.203 [main] INFO DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8181"]
+2024-01-08 17:09:22.215 [main] INFO TomcatWebServer.java:204 - Tomcat started on port(s): 8181 (http) with context path ''
+2024-01-08 17:09:22.216 [main] INFO StartupInfoLogger.java:61 - Started KafkaDorisApplication in 1.732 seconds (JVM running for 2.263)
+2024-01-08 17:09:26.619 [scheduling-1] INFO AiaScan.java:75 - start transactionsInfoByCriteria
+2024-01-08 17:09:42.811 [scheduling-1] INFO AiaScan.java:75 - start transactionsInfoByCriteria
+2024-01-08 17:09:47.831 [SpringContextShutdownHook] INFO ExecutorConfigurationSupport.java:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-08 17:09:47.831 [SpringContextShutdownHook] INFO ExecutorConfigurationSupport.java:208 - Shutting down ExecutorService 'taskScheduler'
+2024-01-08 17:09:47.833 [SpringContextShutdownHook] INFO DruidDataSource.java:1928 - {dataSource-1} closed
+2024-01-08 17:18:27.079 [main] INFO KotlinDetector.java:57 - Kotlin reflection implementation not found at runtime, related features won't be available.
+2024-01-08 17:18:27.296 [main] INFO StartupInfoLogger.java:55 - Starting KafkaDorisApplication on DESKTOP-FGKD8VO with PID 16208 (D:\workspace\lark\target\classes started by Lenovo in D:\workspace\lark)
+2024-01-08 17:18:27.297 [main] INFO SpringApplication.java:651 - No active profile set, falling back to default profiles: default
+2024-01-08 17:18:27.636 [main] INFO RepositoryConfigurationDelegate.java:244 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2024-01-08 17:18:27.637 [main] INFO RepositoryConfigurationDelegate.java:126 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2024-01-08 17:18:27.652 [main] INFO RepositoryConfigurationDelegate.java:182 - Finished Spring Data repository scanning in 8ms. Found 0 repository interfaces.
+2024-01-08 17:18:27.789 [main] INFO PostProcessorRegistrationDelegate.java:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-01-08 17:18:27.921 [main] INFO TomcatWebServer.java:92 - Tomcat initialized with port(s): 8181 (http)
+2024-01-08 17:18:27.927 [main] INFO DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8181"]
+2024-01-08 17:18:27.927 [main] INFO DirectJDKLog.java:173 - Starting service [Tomcat]
+2024-01-08 17:18:27.927 [main] INFO DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2024-01-08 17:18:27.978 [main] INFO DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2024-01-08 17:18:27.978 [main] INFO ServletWebServerApplicationContext.java:284 - Root WebApplicationContext: initialization completed in 650 ms
+2024-01-08 17:18:28.044 [main] INFO DruidDataSourceAutoConfigure.java:56 - Init DruidDataSource
+2024-01-08 17:18:28.094 [main] INFO DruidDataSource.java:991 - {dataSource-1} inited
+2024-01-08 17:22:19.235 [main] INFO KotlinDetector.java:57 - Kotlin reflection implementation not found at runtime, related features won't be available.
+2024-01-08 17:22:19.471 [main] INFO StartupInfoLogger.java:55 - Starting KafkaDorisApplication on DESKTOP-FGKD8VO with PID 4400 (D:\workspace\lark\target\classes started by Lenovo in D:\workspace\lark)
+2024-01-08 17:22:19.471 [main] INFO SpringApplication.java:651 - No active profile set, falling back to default profiles: default
+2024-01-08 17:22:19.816 [main] INFO RepositoryConfigurationDelegate.java:244 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2024-01-08 17:22:19.817 [main] INFO RepositoryConfigurationDelegate.java:126 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2024-01-08 17:22:19.833 [main] INFO RepositoryConfigurationDelegate.java:182 - Finished Spring Data repository scanning in 9ms. Found 0 repository interfaces.
+2024-01-08 17:22:19.997 [main] INFO PostProcessorRegistrationDelegate.java:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-01-08 17:22:20.126 [main] INFO TomcatWebServer.java:92 - Tomcat initialized with port(s): 8181 (http)
+2024-01-08 17:22:20.131 [main] INFO DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8181"]
+2024-01-08 17:22:20.131 [main] INFO DirectJDKLog.java:173 - Starting service [Tomcat]
+2024-01-08 17:22:20.132 [main] INFO DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2024-01-08 17:22:20.186 [main] INFO DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2024-01-08 17:22:20.186 [main] INFO ServletWebServerApplicationContext.java:284 - Root WebApplicationContext: initialization completed in 681 ms
+2024-01-08 17:22:20.264 [main] INFO DruidDataSourceAutoConfigure.java:56 - Init DruidDataSource
+2024-01-08 17:22:20.316 [main] INFO DruidDataSource.java:991 - {dataSource-1} inited
+2024-01-08 17:22:20.775 [main] INFO ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'taskScheduler'
+2024-01-08 17:22:20.849 [main] INFO ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-08 17:22:21.116 [main] INFO DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8181"]
+2024-01-08 17:22:21.128 [main] INFO TomcatWebServer.java:204 - Tomcat started on port(s): 8181 (http) with context path ''
+2024-01-08 17:22:21.128 [main] INFO StartupInfoLogger.java:61 - Started KafkaDorisApplication in 1.871 seconds (JVM running for 2.402)
+2024-01-08 17:22:25.304 [scheduling-1] INFO AiaScan.java:80 - start transactionsInfoByCriteria
+2024-01-08 17:22:30.351 [SpringContextShutdownHook] INFO ExecutorConfigurationSupport.java:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-08 17:22:30.351 [SpringContextShutdownHook] INFO ExecutorConfigurationSupport.java:208 - Shutting down ExecutorService 'taskScheduler'
+2024-01-08 17:22:30.353 [SpringContextShutdownHook] INFO DruidDataSource.java:1928 - {dataSource-1} closed
+2024-01-08 17:24:06.742 [main] INFO KotlinDetector.java:57 - Kotlin reflection implementation not found at runtime, related features won't be available.
+2024-01-08 17:24:06.974 [main] INFO StartupInfoLogger.java:55 - Starting KafkaDorisApplication on DESKTOP-FGKD8VO with PID 19380 (D:\workspace\lark\target\classes started by Lenovo in D:\workspace\lark)
+2024-01-08 17:24:06.975 [main] INFO SpringApplication.java:651 - No active profile set, falling back to default profiles: default
+2024-01-08 17:24:07.277 [main] INFO RepositoryConfigurationDelegate.java:244 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2024-01-08 17:24:07.279 [main] INFO RepositoryConfigurationDelegate.java:126 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2024-01-08 17:24:07.294 [main] INFO RepositoryConfigurationDelegate.java:182 - Finished Spring Data repository scanning in 9ms. Found 0 repository interfaces.
+2024-01-08 17:24:07.431 [main] INFO PostProcessorRegistrationDelegate.java:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-01-08 17:24:07.573 [main] INFO TomcatWebServer.java:92 - Tomcat initialized with port(s): 8181 (http)
+2024-01-08 17:24:07.578 [main] INFO DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8181"]
+2024-01-08 17:24:07.578 [main] INFO DirectJDKLog.java:173 - Starting service [Tomcat]
+2024-01-08 17:24:07.578 [main] INFO DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2024-01-08 17:24:07.633 [main] INFO DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2024-01-08 17:24:07.633 [main] INFO ServletWebServerApplicationContext.java:284 - Root WebApplicationContext: initialization completed in 633 ms
+2024-01-08 17:24:07.701 [main] INFO DruidDataSourceAutoConfigure.java:56 - Init DruidDataSource
+2024-01-08 17:24:07.749 [main] INFO DruidDataSource.java:991 - {dataSource-1} inited
+2024-01-08 17:24:08.162 [main] INFO ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'taskScheduler'
+2024-01-08 17:24:08.234 [main] INFO ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-08 17:24:08.527 [main] INFO DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8181"]
+2024-01-08 17:24:08.537 [main] INFO TomcatWebServer.java:204 - Tomcat started on port(s): 8181 (http) with context path ''
+2024-01-08 17:24:08.539 [main] INFO StartupInfoLogger.java:61 - Started KafkaDorisApplication in 1.774 seconds (JVM running for 2.308)
+2024-01-08 17:24:11.732 [scheduling-1] ERROR TaskUtils.java:95 - Unexpected error occurred in scheduled task
+java.lang.NullPointerException: null
+	at com.tqxd.kafkaDoris.component.AiaScan.scanTransaction(AiaScan.java:43)
+	at com.tqxd.kafkaDoris.component.JobDispatch.scanAiaTransaction(JobDispatch.java:57)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+2024-01-08 17:24:28.438 [scheduling-1] ERROR TaskUtils.java:95 - Unexpected error occurred in scheduled task
+java.lang.NullPointerException: null
+	at com.tqxd.kafkaDoris.component.AiaScan.scanTransaction(AiaScan.java:43)
+	at com.tqxd.kafkaDoris.component.JobDispatch.scanAiaTransaction(JobDispatch.java:57)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+2024-01-08 17:24:43.367 [SpringContextShutdownHook] INFO ExecutorConfigurationSupport.java:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-08 17:24:43.367 [SpringContextShutdownHook] INFO ExecutorConfigurationSupport.java:208 - Shutting down ExecutorService 'taskScheduler'
+2024-01-08 17:24:43.369 [SpringContextShutdownHook] INFO DruidDataSource.java:1928 - {dataSource-1} closed
+2024-01-08 17:25:58.220 [main] INFO KotlinDetector.java:57 - Kotlin reflection implementation not found at runtime, related features won't be available.
+2024-01-08 17:25:58.442 [main] INFO StartupInfoLogger.java:55 - Starting KafkaDorisApplication on DESKTOP-FGKD8VO with PID 8676 (D:\workspace\lark\target\classes started by Lenovo in D:\workspace\lark)
+2024-01-08 17:25:58.442 [main] INFO SpringApplication.java:651 - No active profile set, falling back to default profiles: default
+2024-01-08 17:25:58.754 [main] INFO RepositoryConfigurationDelegate.java:244 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2024-01-08 17:25:58.755 [main] INFO RepositoryConfigurationDelegate.java:126 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2024-01-08 17:25:58.771 [main] INFO RepositoryConfigurationDelegate.java:182 - Finished Spring Data repository scanning in 9ms. Found 0 repository interfaces.
+2024-01-08 17:25:58.903 [main] INFO PostProcessorRegistrationDelegate.java:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-01-08 17:25:59.031 [main] INFO TomcatWebServer.java:92 - Tomcat initialized with port(s): 8181 (http)
+2024-01-08 17:25:59.036 [main] INFO DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8181"]
+2024-01-08 17:25:59.037 [main] INFO DirectJDKLog.java:173 - Starting service [Tomcat]
+2024-01-08 17:25:59.037 [main] INFO DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2024-01-08 17:25:59.088 [main] INFO DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2024-01-08 17:25:59.088 [main] INFO ServletWebServerApplicationContext.java:284 - Root WebApplicationContext: initialization completed in 616 ms
+2024-01-08 17:25:59.158 [main] INFO DruidDataSourceAutoConfigure.java:56 - Init DruidDataSource
+2024-01-08 17:25:59.209 [main] INFO DruidDataSource.java:991 - {dataSource-1} inited
+2024-01-08 17:25:59.603 [main] INFO ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'taskScheduler'
+2024-01-08 17:25:59.695 [main] INFO ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-08 17:25:59.983 [main] INFO DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8181"]
+2024-01-08 17:25:59.994 [main] INFO TomcatWebServer.java:204 - Tomcat started on port(s): 8181 (http) with context path ''
+2024-01-08 17:25:59.996 [main] INFO StartupInfoLogger.java:61 - Started KafkaDorisApplication in 1.749 seconds (JVM running for 2.272)
+2024-01-08 17:26:03.085 [scheduling-1] INFO AiaScan.java:80 - start transactionsInfoByCriteria
+2024-01-08 17:26:19.883 [scheduling-1] INFO AiaScan.java:80 - start transactionsInfoByCriteria
+2024-01-08 17:26:39.890 [scheduling-1] INFO AiaScan.java:80 - start transactionsInfoByCriteria
+2024-01-08 17:26:59.878 [scheduling-1] INFO AiaScan.java:80 - start transactionsInfoByCriteria
+2024-01-08 17:27:19.889 [scheduling-1] INFO AiaScan.java:80 - start transactionsInfoByCriteria
+2024-01-08 17:27:39.881 [scheduling-1] INFO AiaScan.java:80 - start transactionsInfoByCriteria
+2024-01-08 17:27:59.613 [scheduling-1] ERROR TaskUtils.java:95 - Unexpected error occurred in scheduled task
+java.lang.NullPointerException: null
+	at java.text.SimpleDateFormat.parse(SimpleDateFormat.java:1439)
+	at java.text.DateFormat.parse(DateFormat.java:364)
+	at com.tqxd.kafkaDoris.component.AiaScan.scanTransaction(AiaScan.java:36)
+	at com.tqxd.kafkaDoris.component.JobDispatch.scanAiaTransaction(JobDispatch.java:57)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+2024-01-08 17:28:19.621 [scheduling-1] ERROR TaskUtils.java:95 - Unexpected error occurred in scheduled task
+java.lang.NullPointerException: null
+	at java.text.SimpleDateFormat.parse(SimpleDateFormat.java:1439)
+	at java.text.DateFormat.parse(DateFormat.java:364)
+	at com.tqxd.kafkaDoris.component.AiaScan.scanTransaction(AiaScan.java:36)
+	at com.tqxd.kafkaDoris.component.JobDispatch.scanAiaTransaction(JobDispatch.java:57)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+2024-01-08 17:28:39.616 [scheduling-1] ERROR TaskUtils.java:95 - Unexpected error occurred in scheduled task
+java.lang.NullPointerException: null
+	at java.text.SimpleDateFormat.parse(SimpleDateFormat.java:1439)
+	at java.text.DateFormat.parse(DateFormat.java:364)
+	at com.tqxd.kafkaDoris.component.AiaScan.scanTransaction(AiaScan.java:36)
+	at com.tqxd.kafkaDoris.component.JobDispatch.scanAiaTransaction(JobDispatch.java:57)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+2024-01-08 17:29:00.156 [scheduling-1] INFO AiaScan.java:80 - start transactionsInfoByCriteria
+2024-01-08 17:29:20.002 [scheduling-1] INFO AiaScan.java:80 - start transactionsInfoByCriteria
+2024-01-08 17:29:39.884 [scheduling-1] INFO AiaScan.java:80 - start transactionsInfoByCriteria
+2024-01-08 17:30:00.511 [scheduling-1] INFO AiaScan.java:80 - start transactionsInfoByCriteria
+2024-01-08 17:30:20.047 [scheduling-1] INFO AiaScan.java:80 - start transactionsInfoByCriteria
+2024-01-08 17:30:40.193 [scheduling-1] INFO AiaScan.java:80 - start transactionsInfoByCriteria
+2024-01-08 17:30:56.112 [SpringContextShutdownHook] INFO ExecutorConfigurationSupport.java:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-08 17:30:56.112 [SpringContextShutdownHook] INFO ExecutorConfigurationSupport.java:208 - Shutting down ExecutorService 'taskScheduler'
+2024-01-08 17:30:56.114 [SpringContextShutdownHook] INFO DruidDataSource.java:1928 - {dataSource-1} closed
+2024-01-08 17:32:47.441 [main] INFO KotlinDetector.java:57 - Kotlin reflection implementation not found at runtime, related features won't be available.
+2024-01-08 17:32:47.710 [main] INFO StartupInfoLogger.java:55 - Starting KafkaDorisApplication on DESKTOP-FGKD8VO with PID 12392 (D:\workspace\lark\target\classes started by Lenovo in D:\workspace\lark)
+2024-01-08 17:32:47.710 [main] INFO SpringApplication.java:651 - No active profile set, falling back to default profiles: default
+2024-01-08 17:32:48.077 [main] INFO RepositoryConfigurationDelegate.java:244 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2024-01-08 17:32:48.078 [main] INFO RepositoryConfigurationDelegate.java:126 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2024-01-08 17:32:48.098 [main] INFO RepositoryConfigurationDelegate.java:182 - Finished Spring Data repository scanning in 10ms. Found 0 repository interfaces.
+2024-01-08 17:32:48.286 [main] INFO PostProcessorRegistrationDelegate.java:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-01-08 17:32:48.440 [main] INFO TomcatWebServer.java:92 - Tomcat initialized with port(s): 8181 (http)
+2024-01-08 17:32:48.446 [main] INFO DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8181"]
+2024-01-08 17:32:48.446 [main] INFO DirectJDKLog.java:173 - Starting service [Tomcat]
+2024-01-08 17:32:48.446 [main] INFO DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2024-01-08 17:32:48.503 [main] INFO DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2024-01-08 17:32:48.503 [main] INFO ServletWebServerApplicationContext.java:284 - Root WebApplicationContext: initialization completed in 766 ms
+2024-01-08 17:32:48.595 [main] INFO DruidDataSourceAutoConfigure.java:56 - Init DruidDataSource
+2024-01-08 17:32:48.650 [main] INFO DruidDataSource.java:991 - {dataSource-1} inited
+2024-01-08 17:32:49.068 [main] INFO ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'taskScheduler'
+2024-01-08 17:32:54.217 [main] INFO ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-08 17:32:54.545 [main] INFO DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8181"]
+2024-01-08 17:32:54.558 [main] INFO TomcatWebServer.java:204 - Tomcat started on port(s): 8181 (http) with context path ''
+2024-01-08 17:32:54.559 [main] INFO StartupInfoLogger.java:61 - Started KafkaDorisApplication in 7.089 seconds (JVM running for 7.742)
+2024-01-08 17:34:08.289 [scheduling-1] INFO AiaScan.java:80 - start transactionsInfoByCriteria
+2024-01-08 17:36:32.111 [SpringContextShutdownHook] INFO ExecutorConfigurationSupport.java:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-08 17:36:32.111 [SpringContextShutdownHook] INFO ExecutorConfigurationSupport.java:208 - Shutting down ExecutorService 'taskScheduler'
+2024-01-08 17:36:32.113 [SpringContextShutdownHook] INFO DruidDataSource.java:1928 - {dataSource-1} closed
+2024-01-08 17:36:35.409 [main] INFO KotlinDetector.java:57 - Kotlin reflection implementation not found at runtime, related features won't be available.
+2024-01-08 17:36:35.637 [main] INFO StartupInfoLogger.java:55 - Starting KafkaDorisApplication on DESKTOP-FGKD8VO with PID 12256 (D:\workspace\lark\target\classes started by Lenovo in D:\workspace\lark)
+2024-01-08 17:36:35.638 [main] INFO SpringApplication.java:651 - No active profile set, falling back to default profiles: default
+2024-01-08 17:36:35.949 [main] INFO RepositoryConfigurationDelegate.java:244 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2024-01-08 17:36:35.950 [main] INFO RepositoryConfigurationDelegate.java:126 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2024-01-08 17:36:35.966 [main] INFO RepositoryConfigurationDelegate.java:182 - Finished Spring Data repository scanning in 9ms. Found 0 repository interfaces.
+2024-01-08 17:36:36.101 [main] INFO PostProcessorRegistrationDelegate.java:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-01-08 17:36:36.228 [main] INFO TomcatWebServer.java:92 - Tomcat initialized with port(s): 8181 (http)
+2024-01-08 17:36:36.234 [main] INFO DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8181"]
+2024-01-08 17:36:36.234 [main] INFO DirectJDKLog.java:173 - Starting service [Tomcat]
+2024-01-08 17:36:36.235 [main] INFO DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2024-01-08 17:36:36.284 [main] INFO DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2024-01-08 17:36:36.284 [main] INFO ServletWebServerApplicationContext.java:284 - Root WebApplicationContext: initialization completed in 614 ms
+2024-01-08 17:36:36.351 [main] INFO DruidDataSourceAutoConfigure.java:56 - Init DruidDataSource
+2024-01-08 17:36:36.400 [main] INFO DruidDataSource.java:991 - {dataSource-1} inited
+2024-01-08 17:36:36.793 [main] INFO ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'taskScheduler'
+2024-01-08 17:36:36.866 [main] INFO ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-08 17:36:37.138 [main] INFO DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8181"]
+2024-01-08 17:36:37.150 [main] INFO TomcatWebServer.java:204 - Tomcat started on port(s): 8181 (http) with context path ''
+2024-01-08 17:36:37.151 [main] INFO StartupInfoLogger.java:61 - Started KafkaDorisApplication in 1.717 seconds (JVM running for 2.221)
+2024-01-08 17:36:41.199 [scheduling-1] INFO AiaScan.java:80 - start transactionsInfoByCriteria
+2024-01-08 17:36:47.412 [SpringContextShutdownHook] INFO ExecutorConfigurationSupport.java:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-08 17:36:47.412 [SpringContextShutdownHook] INFO ExecutorConfigurationSupport.java:208 - Shutting down ExecutorService 'taskScheduler'
+2024-01-08 17:36:47.415 [SpringContextShutdownHook] INFO DruidDataSource.java:1928 - {dataSource-1} closed
+2024-01-08 17:44:01.528 [main] INFO KotlinDetector.java:57 - Kotlin reflection implementation not found at runtime, related features won't be available.
+2024-01-08 17:44:01.785 [main] INFO StartupInfoLogger.java:55 - Starting KafkaDorisApplication on DESKTOP-FGKD8VO with PID 10996 (D:\workspace\lark\target\classes started by Lenovo in D:\workspace\lark)
+2024-01-08 17:44:01.793 [main] INFO SpringApplication.java:651 - No active profile set, falling back to default profiles: default
+2024-01-08 17:44:02.137 [main] INFO RepositoryConfigurationDelegate.java:244 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2024-01-08 17:44:02.139 [main] INFO RepositoryConfigurationDelegate.java:126 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2024-01-08 17:44:02.156 [main] INFO RepositoryConfigurationDelegate.java:182 - Finished Spring Data repository scanning in 9ms. Found 0 repository interfaces.
+2024-01-08 17:44:02.315 [main] INFO PostProcessorRegistrationDelegate.java:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-01-08 17:44:02.468 [main] INFO TomcatWebServer.java:92 - Tomcat initialized with port(s): 8181 (http)
+2024-01-08 17:44:02.473 [main] INFO DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8181"]
+2024-01-08 17:44:02.473 [main] INFO DirectJDKLog.java:173 - Starting service [Tomcat]
+2024-01-08 17:44:02.473 [main] INFO DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2024-01-08 17:44:02.529 [main] INFO DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2024-01-08 17:44:02.529 [main] INFO ServletWebServerApplicationContext.java:284 - Root WebApplicationContext: initialization completed in 711 ms
+2024-01-08 17:44:02.607 [main] INFO DruidDataSourceAutoConfigure.java:56 - Init DruidDataSource
+2024-01-08 17:44:02.663 [main] INFO DruidDataSource.java:991 - {dataSource-1} inited
+2024-01-08 17:44:03.073 [main] INFO ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'taskScheduler'
+2024-01-08 17:44:07.500 [main] INFO ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-08 17:44:07.805 [main] INFO DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8181"]
+2024-01-08 17:44:07.818 [main] INFO TomcatWebServer.java:204 - Tomcat started on port(s): 8181 (http) with context path ''
+2024-01-08 17:44:07.820 [main] INFO StartupInfoLogger.java:61 - Started KafkaDorisApplication in 6.261 seconds (JVM running for 6.864)
+2024-01-08 17:45:51.492 [scheduling-1] INFO AiaScan.java:80 - start transactionsInfoByCriteria
+2024-01-08 17:45:51.525 [SpringContextShutdownHook] INFO ExecutorConfigurationSupport.java:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-08 17:45:51.526 [SpringContextShutdownHook] INFO ExecutorConfigurationSupport.java:208 - Shutting down ExecutorService 'taskScheduler'
+2024-01-08 17:45:51.526 [SpringContextShutdownHook] INFO DruidDataSource.java:1928 - {dataSource-1} closed
+2024-01-08 17:47:11.676 [main] INFO KotlinDetector.java:57 - Kotlin reflection implementation not found at runtime, related features won't be available.
+2024-01-08 17:47:11.920 [main] INFO StartupInfoLogger.java:55 - Starting KafkaDorisApplication on DESKTOP-FGKD8VO with PID 7472 (D:\workspace\lark\target\classes started by Lenovo in D:\workspace\lark)
+2024-01-08 17:47:11.920 [main] INFO SpringApplication.java:651 - No active profile set, falling back to default profiles: default
+2024-01-08 17:47:12.262 [main] INFO RepositoryConfigurationDelegate.java:244 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2024-01-08 17:47:12.263 [main] INFO RepositoryConfigurationDelegate.java:126 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2024-01-08 17:47:12.279 [main] INFO RepositoryConfigurationDelegate.java:182 - Finished Spring Data repository scanning in 9ms. Found 0 repository interfaces.
+2024-01-08 17:47:12.413 [main] INFO PostProcessorRegistrationDelegate.java:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-01-08 17:47:12.542 [main] INFO TomcatWebServer.java:92 - Tomcat initialized with port(s): 8181 (http)
+2024-01-08 17:47:12.548 [main] INFO DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8181"]
+2024-01-08 17:47:12.548 [main] INFO DirectJDKLog.java:173 - Starting service [Tomcat]
+2024-01-08 17:47:12.548 [main] INFO DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2024-01-08 17:47:12.601 [main] INFO DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2024-01-08 17:47:12.601 [main] INFO ServletWebServerApplicationContext.java:284 - Root WebApplicationContext: initialization completed in 647 ms
+2024-01-08 17:47:12.678 [main] INFO DruidDataSourceAutoConfigure.java:56 - Init DruidDataSource
+2024-01-08 17:47:12.732 [main] INFO DruidDataSource.java:991 - {dataSource-1} inited
+2024-01-08 17:47:59.164 [main] INFO KotlinDetector.java:57 - Kotlin reflection implementation not found at runtime, related features won't be available.
+2024-01-08 17:47:59.393 [main] INFO StartupInfoLogger.java:55 - Starting KafkaDorisApplication on DESKTOP-FGKD8VO with PID 13872 (D:\workspace\lark\target\classes started by Lenovo in D:\workspace\lark)
+2024-01-08 17:47:59.393 [main] INFO SpringApplication.java:651 - No active profile set, falling back to default profiles: default
+2024-01-08 17:47:59.716 [main] INFO RepositoryConfigurationDelegate.java:244 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2024-01-08 17:47:59.718 [main] INFO RepositoryConfigurationDelegate.java:126 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2024-01-08 17:47:59.734 [main] INFO RepositoryConfigurationDelegate.java:182 - Finished Spring Data repository scanning in 8ms. Found 0 repository interfaces.
+2024-01-08 17:47:59.879 [main] INFO PostProcessorRegistrationDelegate.java:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-01-08 17:48:00.025 [main] INFO TomcatWebServer.java:92 - Tomcat initialized with port(s): 8181 (http)
+2024-01-08 17:48:00.030 [main] INFO DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8181"]
+2024-01-08 17:48:00.030 [main] INFO DirectJDKLog.java:173 - Starting service [Tomcat]
+2024-01-08 17:48:00.030 [main] INFO DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2024-01-08 17:48:00.082 [main] INFO DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2024-01-08 17:48:00.082 [main] INFO ServletWebServerApplicationContext.java:284 - Root WebApplicationContext: initialization completed in 657 ms
+2024-01-08 17:48:00.153 [main] INFO DruidDataSourceAutoConfigure.java:56 - Init DruidDataSource
+2024-01-08 17:48:00.205 [main] INFO DruidDataSource.java:991 - {dataSource-1} inited
+2024-01-08 17:48:00.598 [main] INFO ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'taskScheduler'
+2024-01-08 17:48:00.672 [main] INFO ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-08 17:48:00.949 [main] INFO DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8181"]
+2024-01-08 17:48:00.960 [main] INFO TomcatWebServer.java:204 - Tomcat started on port(s): 8181 (http) with context path ''
+2024-01-08 17:48:00.961 [main] INFO StartupInfoLogger.java:61 - Started KafkaDorisApplication in 1.774 seconds (JVM running for 2.343)
+2024-01-08 17:48:07.444 [scheduling-1] INFO AiaScan.java:80 - start transactionsInfoByCriteria
+2024-01-08 17:48:20.896 [scheduling-1] INFO AiaScan.java:80 - start transactionsInfoByCriteria
+2024-01-08 17:48:41.706 [scheduling-1] INFO AiaScan.java:80 - start transactionsInfoByCriteria
+2024-01-08 17:49:00.882 [scheduling-1] INFO AiaScan.java:80 - start transactionsInfoByCriteria
+2024-01-08 17:49:06.473 [SpringContextShutdownHook] INFO ExecutorConfigurationSupport.java:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-08 17:49:06.473 [SpringContextShutdownHook] INFO ExecutorConfigurationSupport.java:208 - Shutting down ExecutorService 'taskScheduler'
+2024-01-08 17:49:06.475 [SpringContextShutdownHook] INFO DruidDataSource.java:1928 - {dataSource-1} closed

@@ -1,0 +1,30 @@
+server:
+  port: 8181
+
+spring:
+  application:
+    name: kafkaDoris
+  #???????
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    #url: jdbc:mysql://localhost:3306/double_wallet?characterEncoding=utf-8&useSSL=false
+    #username: root
+    #password: 1994.huang
+    url: jdbc:mysql://172.93.2.209:9030/double_wallet?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&&allowMultiQueries=true&rewriteBatchedStatements=true
+    username: root
+    password: bDdf4C0NqtmPCTOt
+
+mybatis-plus:
+  mapperPackage: com.tqxd.kafkaDoris.mapper
+  mapper-locations: classpath:mapper/*.xml
+  mapUnderscoreToCamelCase:
+  type-aliases-package: com.tqxd.kafkaDoris.domain
+  configuration:
+    log-impl: org.apache.ibatis.logging.nologging.NoLoggingImpl
+    #log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    map-underscore-to-camel-case: true
+
+logging:
+  config: classpath:logback.xml
+
+config-file-path: ../config.txt
